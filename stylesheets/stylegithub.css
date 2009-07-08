@@ -1391,20 +1391,47 @@ text-align:right;
 
 #cuerpo
 {
-	background-image:url(../images/pastillagith.png);
+
 	background-repeat:no-repeat;
 	height:463px;
 	padding:10px;
 	margin-top:3px;
-	margin-left:-22px;
+	margin-left:-19px;
 	margin-right:15px;
 
 
 }
 #texto {
+	background-image: url(../images/pastillagith.png);
+	#background-image: url();
+	background-repeat:no-repeat;
+	background-position:top left;
+	height:230px;
+	padding-top:15px;
+	padding-right:10px;
+	padding-left:30px;
+	margin-top:1px;
+	margin-left:25px;
+	margin-right:25px;
+	font-size:1em;
+	color:#ffffff;
+	text-align:justify;
+	font-weight:600;
+
+
+}
+
+#textoingles {
+	background-image: url(../images/pastillagith.png);
+	#background-image: url();
+	background-repeat:no-repeat;
+	background-position:top left;
 	height:250px;
-	padding:10px;
-	margin-top:7px;
+	padding-top:20px;
+	padding-bottom:10px;
+	padding-right:10px;
+	padding-left:30px;
+	margin-top:1px;
 	margin-left:25px;
 	margin-right:25px;
 	font-size:1em;
@@ -1426,6 +1453,7 @@ text-align:right;
 	margin-bottom:15px;
 	margin-left:10px;
 	margin-right:0px;
+	width:900px;
 }
 .lupa{
 width:30px;

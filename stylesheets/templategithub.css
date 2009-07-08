@@ -8,6 +8,7 @@ border:medium none red;
 }
 
 clearfix:after {
+
 clear:both;
 content:".";
 display:block;
@@ -181,7 +182,7 @@ border: solid 0.4em white;
 
 
 #menu ul {
-
+#background-image:url(../images/backgith.jpg);
 list-style-type:none;
 align:left;
 padding:0;
@@ -190,6 +191,7 @@ padding:0;
 
 }
 #menu li {
+
 display:inline;
 margin-right:7px;
 width:100%;
@@ -341,7 +343,7 @@ overflow:visible;
 padding-left:0;
 padding-right:0;
 padding-top:20px;
-width:70%;
+width:900px;
 height:300px;
 -moz-border-radius: 40px 10px;
 border: solid 5px gray;
