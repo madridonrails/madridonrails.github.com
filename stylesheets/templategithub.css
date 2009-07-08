@@ -182,11 +182,11 @@ border: solid 0.4em white;
 
 
 #menu ul {
-#background-image:url(../images/backgith.jpg);
+_background-image:url(../images/backgith.jpg);
 list-style-type:none;
 align:left;
 padding:0;
-#width:900px;
+_width:900px;
 
 
 }
@@ -344,7 +344,6 @@ padding-left:0;
 padding-right:0;
 padding-top:20px;
 width:900px;
-height:300px;
 -moz-border-radius: 40px 10px;
 border: solid 5px gray;
 border-bottom: solid 1px gray;
